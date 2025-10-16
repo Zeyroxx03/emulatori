@@ -18,5 +18,15 @@
     "size": "80MB",
     "logo_url": "https://citron-emu.org/citron-logo.svg",
     "download_url": "https://citron-emu.org/citron-logo.svg"
+  },
+  {
+    "id": "fsd",
+    "name": "fsd",
+    "version": "fsd",
+    "description": "fdsfds",
+    "category": "fds",
+    "size": "fds",
+    "logo_url": "fsddfs",
+    "download_url": "fsdfds"
   }
 ]
