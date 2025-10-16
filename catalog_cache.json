@@ -8,25 +8,5 @@
     "size": "31.1MB",
     "logo_url": "https://citron-emu.org/citron-logo.svg",
     "download_url": "https://git.citron-emu.org/api/v4/projects/1/packages/generic/Citron/0.8.0/citron-windows-optimized-pgo-ea-080.zip"
-  },
-  {
-    "id": "3",
-    "name": "prova",
-    "version": "1.12",
-    "description": "ciao a tutti",
-    "category": "Switch",
-    "size": "80MB",
-    "logo_url": "https://citron-emu.org/citron-logo.svg",
-    "download_url": "https://citron-emu.org/citron-logo.svg"
-  },
-  {
-    "id": "fsd",
-    "name": "fsd",
-    "version": "fsd",
-    "description": "fdsfds",
-    "category": "fds",
-    "size": "fds",
-    "logo_url": "fsddfs",
-    "download_url": "fsdfds"
   }
 ]
