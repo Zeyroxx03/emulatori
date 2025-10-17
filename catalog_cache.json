@@ -3,9 +3,9 @@
     "id": "citron",
     "name": "Citron",
     "version": "0.8.0",
-    "description": "The most advanced Nintendo Switch emulator, bringing your favorite games to PC with enhanced performance and visual quality.",
     "category": "Switch",
-    "size": "31.1MB",
+    "size": "31.1 MB",
+    "description": "The most advanced Nintendo Switch emulator, bringing your favorite games to PC with enhanced performance and visual quality.",
     "logo_url": "https://citron-emu.org/citron-logo.svg",
     "download_url": "https://git.citron-emu.org/api/v4/projects/1/packages/generic/Citron/0.8.0/citron-windows-optimized-pgo-ea-080.zip"
   }
